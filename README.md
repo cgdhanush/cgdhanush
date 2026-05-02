@@ -4,4 +4,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cgdhanush/cgdhanush/output/pacman-contribution-graph.svg">
 </picture>
 
-###
